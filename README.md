@@ -12,7 +12,7 @@
 I am passionate about frontend and backend, databases, microservices, agile(Scrum) environment and client applications with good software development practices and principles.
 
 I am autodidact to exploring new areas of science and technologies, love to solve problems and constantly learn from upcoming new tecnology
-I am very passionate about SRE( Site Reliability Engineering ) and i want to be a great SRE Engineer so that everyday i spent at least 5 hour to knowing new technology.I must say that learning new tech is an addiction so keep it up always.  
+I am very passionate about SRE( Site Reliability Engineering ) and i want to be a great SRE Engineer so that everyday i spent at least 5 hour to knowing new technology.I must say that learning new tech is an addiction so keep it up always. 
 
 
 
@@ -64,6 +64,6 @@ I am very passionate about SRE( Site Reliability Engineering ) and i want to be 
   "Code Editor": [ "VS Code", "PyCharm", "Webstrom" ],
   "Operating System": [ "Unix", "Linux(Ubuntu)" ],
   "Command Terminal": [ "Bash-Shell", "zsh", "gitBash", "Linux Terminal"],
-  "Software Development Lifecycle": Waterfall Methodology 
+  "Software Development Lifecycle": [ "Waterfall Methodology" ]
 }
 ```
