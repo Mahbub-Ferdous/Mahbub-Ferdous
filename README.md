@@ -64,6 +64,6 @@ I am very passionate about SRE( Site Reliability Engineering ) and i want to be 
   "Code Editor": [ "VS Code", "PyCharm", "Webstrom" ],
   "Operating System": [ "Unix", "Linux(Ubuntu)" ],
   "Command Terminal": [ "Bash-Shell", "zsh", "gitBash", "Linux Terminal"],
-  "Software Development Lifecycle": [ Waterfall_Methodology ]
+  "Software Development Lifecycle": Waterfall Methodology 
 }
 ```
