@@ -6,7 +6,7 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/mahbub-ferdous-a57a62153/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:mahbubferdous14@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
 [![Stackoverflow Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=stackoverflow&logoColor=f5f7fe)](https://stackoverflow.com/users/16545822/mahbub-ferdous-bijoy/)
-[![Dev Community](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=DEVCommunity&logoColor=f5f7fe)](https://dev.to/mahhbubferdous/)
+[![Dev.to](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=dev.to&logoColor=f5f7fe)](https://dev.to/mahhbubferdous/)
 
 > Junior Software Engineer <br />
 > Tech enthusiast, Problem solver, Passionate Engineer
