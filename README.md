@@ -16,7 +16,7 @@ I am passionate about frontend and backend, databases, microservices, agile(Scru
 I am autodidact to exploring new areas of science and technologies, love to solve problems and constantly learn from upcoming new tecnology
 I am very passionate about SRE( Site Reliability Engineering ) and i want to be a great SRE Engineer so that everyday i spent at least 5 hour to knowing new technology.I must say that learning new tech is an addiction so keep it up always. 
 
-My Stackoverflow Id : 
+
 
 
 🔭 <b>University Course Completed:</b>
