@@ -1,5 +1,6 @@
-
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Mahbub-Ferdous&&show_icons=true&theme=tokyonight&count_private=true" alt="Mahbub's Github Stats"/>](https://github.com/Mahbub-Ferdous)
+
+
 
 ## <samp>Hello World!</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px"><br/> I am Mahbub Ferdous Bijoy
 
@@ -57,7 +58,7 @@ I am very passionate about SRE( Site Reliability Engineering ) and i want to be 
 {
   "languages": ["Javascript", "Python", "C/++", "SQL"],
   "frameworks/libraries": {
-    "backend": ["Nodejs", "Expressjs", "Django"],
+    "backend": ["Django", "Django REST-Framework"],
     "frontend": ["Reactjs", "Bootstrap", "Sass", "Html5", "Css3"]
   },
   "database": ["Mysql", "PostgreSQL", "MongoDB" ],
