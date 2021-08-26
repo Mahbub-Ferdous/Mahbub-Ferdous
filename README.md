@@ -15,7 +15,7 @@
 I am passionate about backend engineering, REST-API, backend API, databases, microservices, agile(Scrum) environment and good software development practices and principles.
 
 I am autodidact to exploring new areas of science and technologies, love to solve problems and constantly learn from upcoming new tecnology
-I am very passionate about SRE( Site Reliability Engineering ).I want to be a SRE Engineer so that everyday i spent at least 5 hour to knowing upcoming new technology. 
+I am very passionate about SRE( Site Reliability Engineering ). I want to be a SRE Engineer so everyday i spend at least 5 hour to knowing upcoming new technology. 
 
 
 
