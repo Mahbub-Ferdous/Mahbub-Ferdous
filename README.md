@@ -42,7 +42,7 @@ I am very passionate about SRE( Site Reliability Engineering ) and i want to be 
 
 🔭 <b>Currently Learning on:</b>
 
-- Framework (ReactNative, REST-full Api, Django Rest-Framework, Backend API with django and node.js), 
+- Framework (ReactNative, REST-full Api, Django Rest-Framework, Backend API with Django and express.js), 
 - Full Devops Life cycle (Jenkins, CI/CD, Selenium, Puppet, Docker, Kubernetes, Nagio, Slack),
 - Cloud Computing (AWS, Azure),
 - Load Balancer (Nginx),
@@ -56,12 +56,12 @@ I am very passionate about SRE( Site Reliability Engineering ) and i want to be 
 
 ```json
 {
-  "languages": ["Javascript", "Python", "C/++", "SQL"],
-  "frameworks/libraries": {
-    "backend": ["Django", "Django REST-Framework"],
-    "frontend": ["Reactjs", "Bootstrap", "Sass", "Html5", "Css3"]
+  "Languages": [ "Python", "Javascript", "C/++", "SQL"],
+  "Frameworks/Libraries": {
+    "Backend": ["Django", "Django REST-Framework"],
+    "Frontend": ["Reactjs", "Bootstrap", "Sass", "Html5", "Css3"]
   },
-  "database": ["Mysql", "PostgreSQL", "MongoDB" ],
+  "Database": ["Mysql", "PostgreSQL", "MongoDB" ],
   "Version Control": [ "Git", "Github" ],
   "Text Editor": [ "VIM", "gedit"],
   "Code Editor": [ "VS Code", "PyCharm", "Webstrom" ],
