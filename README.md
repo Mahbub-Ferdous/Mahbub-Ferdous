@@ -18,55 +18,21 @@ I am autodidact to exploring new areas of science and technologies, love to solv
 I am very passionate about SRE( Site Reliability Engineering ). I want to be a SRE Engineer so everyday i spend at least 5 hour to knowing upcoming new technology. 
 
 
-
-
-🔭 <b>University Course Completed:</b>
-
-- CSE115 - Programming Language 1
-- CSE173 - Discrete Mathematics
-- CSE215 - Programming Language 2
-- CSE225 - Data Structure and Algorithm
-- CSE231 - Digital Logic Design
-- CSE332 - Computer Architecture
-- CSE311 - Database Design
-- CSE333 - OOP(Object Oriental Programming) with Python
-- CSE323 - Operating System Design
-- CSE373 - Design And Analysis Of Algorithms
-- CSE327 - Software Engineering 
-- CSE330 - Programming Language Paradigms
-- CSE331 - Microprocessor Interfacing And Embedded System
-- CSE499A- Senior Design 1
-- CSE499B- Senior Design 2 
-
-
-
-🔭 <b>Currently Learning on:</b>
-
-- Framework (ReactNative, REST-full Api, Django Rest-Framework, Backend API with Django and express.js), 
-- Full Devops Life cycle (Jenkins, CI/CD, Selenium, Puppet, Docker, Kubernetes, Nagio, Slack),
-- Cloud Computing (AWS, Azure),
-- Load Balancer (Nginx),
-- New Technology ( Microservices,)
-- Agile Methodology ( Scrum, Kanban ) 
-
-
-
-
-### Technologies I already learned and worked with :
+### Technologies I am learning and worked with :
 
 ```json
 {
-  "Languages": [ "Python", "Javascript", "C/++", "SQL"],
+  "Languages": [ "Python", "Javascript"],
   "Frameworks/Libraries": {
-    "Backend": ["Django", "Django REST-Framework"],
+    "Backend": ["Django", "Django REST-Framework", "Nodejs", "express.js"],
     "Frontend": ["Reactjs", "Bootstrap", "Sass", "Html5", "Css3"]
   },
   "Database": ["Mysql", "PostgreSQL", "MongoDB" ],
   "Version Control": [ "Git", "Github" ],
   "Text Editor": [ "VIM", "gedit"],
-  "Code Editor": [ "VS Code", "PyCharm", "Webstrom" ],
+  "Code Editor": [ "VS Code", "PyCharm"],
   "Operating System": [ "Unix", "Linux(Ubuntu)" ],
-  "Command Terminal": [ "Bash-Shell", "zsh", "gitBash", "Linux Terminal"],
-  "Software Development Lifecycle": [ "Waterfall Methodology" ]
+  "Command Terminal": [ "Bash", "shell", "gitBash", "Linux Terminal"],
+  "Software Development Life Cycle": [ "Agile Methodology" ]
 }
 ```
