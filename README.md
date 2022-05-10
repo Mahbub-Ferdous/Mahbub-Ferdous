@@ -9,10 +9,10 @@
 [![Stackoverflow Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=stackoverflow&logoColor=f5f7fe)](https://stackoverflow.com/users/16545822/mahbub-ferdous-bijoy/)
 [![Dev.to](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=dev.to&logoColor=f5f7fe)](https://dev.to/mahhbubferdous/)
 
-> Junior Software Engineer <br />
+> Junior Software Engineer(Frontend) <br />
 > Tech enthusiast, Problem solver, Passionate Engineer
 
-I am passionate about backend engineering, REST-API, backend API, databases, microservices, agile(Scrum) environment and good software development practices and principles.Love to write code for Frontend.
+Love to write code for Frontend also i am passionate about backend engineering, REST-API, backend API, databases, microservices, agile(Scrum) environment and good software development practices and principles.
 
 I am autodidact to exploring new areas of science and technologies, love to solve problems and constantly learn from upcoming new tecnology
 I am very passionate about SRE( Site Reliability Engineering ). I want to be a SRE Engineer so everyday i spend at least 3 hour to knowing upcoming new technology. 
@@ -20,11 +20,13 @@ I am very passionate about SRE( Site Reliability Engineering ). I want to be a S
 
 ### Technologies I am learning and worked with :
 
+### Basic And Beginner - *
+
 ```json
 {
   "Languages": [ "Python", "Javascript" ],
   "Frameworks/Libraries": {
-    "Backend": [ "Nodejs", "Express.js", "Django", "Django REST-Framework"],
+    "Backend": [ "Nodejs*", "Express.js*", "Django", "Django REST-Framework"],
     "Frontend": [ "Reactjs", "Sass", "Html5", "Css3", "Bootstrap", "Tailwind", "Materializecss" ],
     "Mobile-Dev": [ "React Native" ]
   },
