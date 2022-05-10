@@ -12,10 +12,10 @@
 > Junior Software Engineer <br />
 > Tech enthusiast, Problem solver, Passionate Engineer
 
-I am passionate about backend engineering, REST-API, backend API, databases, microservices, agile(Scrum) environment and good software development practices and principles.
+I am passionate about backend engineering, REST-API, backend API, databases, microservices, agile(Scrum) environment and good software development practices and principles.Love to write code for Frontend.
 
 I am autodidact to exploring new areas of science and technologies, love to solve problems and constantly learn from upcoming new tecnology
-I am very passionate about SRE( Site Reliability Engineering ). I want to be a SRE Engineer so everyday i spend at least 5 hour to knowing upcoming new technology. 
+I am very passionate about SRE( Site Reliability Engineering ). I want to be a SRE Engineer so everyday i spend at least 3 hour to knowing upcoming new technology. 
 
 
 ### Technologies I am learning and worked with :
@@ -24,7 +24,7 @@ I am very passionate about SRE( Site Reliability Engineering ). I want to be a S
 {
   "Languages": [ "Python", "Javascript" ],
   "Frameworks/Libraries": {
-    "Backend": [ "Django", "Django REST-Framework", "Nodejs", "Express.js" ],
+    "Backend": [ "Nodejs", "Express.js", "Django", "Django REST-Framework"],
     "Frontend": [ "Reactjs", "Sass", "Html5", "Css3", "Bootstrap", "Tailwind", "Materializecss" ],
     "Mobile-Dev": [ "React Native" ]
   },
