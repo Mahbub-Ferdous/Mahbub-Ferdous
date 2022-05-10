@@ -20,13 +20,12 @@ I am very passionate about SRE( Site Reliability Engineering ). I want to be a S
 
 ### Technologies I am learning and worked with :
 
-### Basic And Beginner - *
 
 ```json
 {
   "Languages": [ "Python", "Javascript" ],
   "Frameworks/Libraries": {
-    "Backend": [ "Nodejs*", "Express.js*", "Django", "Django REST-Framework"],
+    "Backend": [ "Nodejs", "Express.js", "Django", "Django REST-Framework"],
     "Frontend": [ "Reactjs", "Sass", "Html5", "Css3", "Bootstrap", "Tailwind", "Materializecss" ],
     "Mobile-Dev": [ "React Native" ]
   },
@@ -36,6 +35,7 @@ I am very passionate about SRE( Site Reliability Engineering ). I want to be a S
   "Code Editor": [ "VS Code", "PyCharm" ],
   "Operating System": [ "Unix", "Linux(Ubuntu)" ],
   "Command Terminal": [ "Bash", "shell", "gitBash" ],
-  "Software Development Life Cycle": [ "Agile Methodology" ]
+  "Software Development Life Cycle": [ "Agile Methodology" ],
+  "Beginner And Learning": [ "Express.js", "Django REST-Framework", "React Native", "PostgreSQL",]
 }
 ```
