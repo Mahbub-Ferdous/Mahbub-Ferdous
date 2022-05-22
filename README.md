@@ -25,17 +25,18 @@ I am very passionate about SRE( Site Reliability Engineering ). I want to be a S
 {
   "Languages": [ "Python", "Javascript" ],
   "Frameworks/Libraries": {
-    "Backend": [ "Nodejs", "Express.js", "Django", "Django REST-Framework"],
+    "Backend": [ "Nodejs", "Express.js"],
     "Frontend": [ "Reactjs", "Sass", "Html5", "Css3", "Bootstrap", "Tailwind", "Materializecss" ],
     "Mobile-Dev": [ "React Native" ]
   },
-  "Database": [ "Mysql", "PostgreSQL", "MongoDB" ],
+  "Database": [ "MongoDB" ],
   "Version Control": [ "Git", "Github" ],
+  "Project Management Software": [ "Jira" ],
   "Text Editor": [ "VIM", "gedit" ],
   "Code Editor": [ "VS Code", "PyCharm" ],
-  "Operating System": [ "Unix", "Linux(Ubuntu)" ],
-  "Command Terminal": [ "Bash", "shell", "gitBash" ],
+  "Operating System": [ "Unix", "Linux(Ubuntu)", "Windows Os" ],
+  "Command Terminal": [ "Bash", "gitBash" ],
   "Software Development Life Cycle": [ "Agile Methodology" ],
-  "Beginner And Learning": [ "Express.js", "Django REST-Framework", "React Native", "PostgreSQL",]
+  "Beginner And Learning": [ "Django", "Django REST-Framework", "React Native", "PostgreSQL",]
 }
 ```
