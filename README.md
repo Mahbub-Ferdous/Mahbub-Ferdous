@@ -23,7 +23,7 @@ I am very passionate about SRE( Site Reliability Engineering ). I want to be a S
 
 ```json
 {
-  "Languages": [ "Python", "Javascript" ],
+  "Languages": [ "Javascript" ],
   "Frameworks/Libraries": {
     "Backend": [ "Nodejs", "Express.js"],
     "Frontend": [ "Reactjs", "Sass", "Html5", "Css3", "Bootstrap", "Tailwind", "Materializecss" ],
