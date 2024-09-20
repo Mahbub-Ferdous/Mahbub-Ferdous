@@ -9,13 +9,10 @@
 [![Stackoverflow Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=stackoverflow&logoColor=f5f7fe)](https://stackoverflow.com/users/16545822/mahbub-ferdous-bijoy/)
 [![Dev.to](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=dev.to&logoColor=f5f7fe)](https://dev.to/mahhbubferdous/)
 
-> Junior Software Engineer(Frontend) <br />
-> Tech enthusiast, Problem solver, Passionate Engineer
+> Junior Devops Engineer <br />
+> Tech enthusiast, Devops & Cloud enthusiast, Problem solver, Passionate Engineer
 
-Love to write code for Frontend also i am passionate about backend engineering, REST-API, backend API, databases, microservices, agile(Scrum) environment and good software development practices and principles.
-
-I am autodidact to exploring new areas of science and technologies, love to solve problems and constantly learn from upcoming new tecnology
-I am very passionate about SRE( Site Reliability Engineering ). I want to be a SRE Engineer so everyday i spend at least 3 hour to knowing upcoming new technology. 
+Passionate about building reliable, scalable infrastructure and automating everything. Associate level experienced with cloud computing like AWS, CI/CD pipelines with Jenkins & Gitlab, version control with with Git & Github, containerization with Docker, container-orchestration with Kubernetes, infrastructure as code with Terraform and monitoring tools like Prometheus, Grafana and CloudWatch. I love solving complex challenges and want to collaborating with teams to deliver seamless, efficient solutions and more complex infrastructure. 
 
 
 ### Technologies I am learning and worked with :
@@ -23,20 +20,23 @@ I am very passionate about SRE( Site Reliability Engineering ). I want to be a S
 
 ```json
 {
-  "Languages": [ "Javascript" ],
-  "Frameworks/Libraries": {
-    "Backend": [ "Nodejs", "Express.js"],
-    "Frontend": [ "Reactjs", "Sass", "Html5", "Css3", "Bootstrap", "Tailwind", "Materializecss" ],
-    "Mobile-Dev": [ "React Native" ]
-  },
+  "Languages": [ "Python" ],
   "Database": [ "MongoDB" ],
   "Version Control": [ "Git", "Github" ],
   "Project Management Software": [ "Jira" ],
-  "Text Editor": [ "VIM", "gedit" ],
-  "Code Editor": [ "VS Code", "PyCharm" ],
-  "Operating System": [ "Unix", "Linux(Ubuntu)", "Windows Os" ],
-  "Command Terminal": [ "Bash", "gitBash" ],
+  "Text Editor": [ "VIM" ],
+  "Code Editor": [ "VS Code" ],
+  "Operating System": ["Linux(Ubuntu,Debian)","macOS" ],
+  "Scripting Languages": [ "Bash", "Shell" ],
   "Software Development Life Cycle": [ "Agile Methodology" ],
-  "Beginner And Learning": [ "Django", "Django REST-Framework", "React Native", "PostgreSQL",]
+  "Data Serialization Language": [ "YAML", "JSON" ],
+  "CI/CD": [ "Jenkins", "Gitlab" ],
+  "Containerization": [ "Docker" ],
+  "Container-Orchestration": [ "Kubernetes" ],
+  "Infrastructure As Code": [ "Terraform" ],
+  "Configuration-Management": [ "Ansible" ],
+  "Cloud Platform": [ "AWS" ],
+  "AWS-Services": [ "VPC", "IAM", "EC2", "ELB & ASG", "NAT Gateway", "NACL & Security Groups", "S3", "RDS", "DynamoDB", "Route53", "AWS-Lambda", "CloudWatch"],
+  "Beginner And Learning": [ "MySQL", "Prometheus", "Grafana", "ELK", "microservices", "RabbitMQ", "Redis", "SonarQube", "Nexus", "Trivy"]
 }
 ```
