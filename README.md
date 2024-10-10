@@ -22,7 +22,7 @@ Passionate about building reliable, scalable infrastructure and automating every
 {
   "Languages": [ "Python" ],
   "Database": [ "MongoDB" ],
-  "Version Control": [ "Git", "Github" ],
+  "Version Control": [ "Git" ],
   "Project Management Software": [ "Jira" ],
   "Text Editor": [ "VIM" ],
   "Code Editor": [ "VS Code" ],
@@ -34,7 +34,6 @@ Passionate about building reliable, scalable infrastructure and automating every
   "Containerization": [ "Docker" ],
   "Container-Orchestration": [ "Kubernetes" ],
   "Infrastructure As Code": [ "Terraform" ],
-  "Configuration-Management": [ "Ansible" ],
   "Cloud Platform": [ "AWS" ],
   "AWS-Services": [ "VPC", "IAM", "EC2", "ELB & ASG", "NAT Gateway", "NACL & Security Groups", "S3", "RDS", "DynamoDB", "Route53", "AWS-Lambda", "CloudWatch"],
   "Beginner And Learning": [ "MySQL", "Prometheus", "Grafana", "ELK", "microservices", "RabbitMQ", "Redis", "SonarQube", "Nexus", "Trivy"]
